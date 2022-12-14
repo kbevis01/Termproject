@@ -1,6 +1,6 @@
 import pandas as pd
 import streamlit as st
-import matplotlib.pyplot as plt
+import matplotlib as plt
 import re
 
 df  = pd.read_csv('School_Attendance_by_School__2020-2021.csv')
